@@ -20,7 +20,7 @@ def FindTrail(x, y):
         if visited[a][b] == 0:
             visited[a][b] += visited[x][y]
             FindTrail(a, b)
-            visited[a][b] = 0
+            visited[a][b] = 0   # 리셋(클리어)
 
 
 for tc in range(1, int(input()) + 1):
@@ -43,7 +43,6 @@ for tc in range(1, int(input()) + 1):
             if MAP[i][j] == maxx:
                 starts.append([i, j])
 
-
     for k in range(1, K + 1):
         for i in range(N):
             for j in range(N):
@@ -53,4 +52,5 @@ for tc in range(1, int(input()) + 1):
                     x, y = start
                     FindTrail(x, y)
                 MAP[i][j] += k
+
     print("#{} {}".format(tc, visitmax))

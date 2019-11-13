@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a996ef41-d6b0-4efa-93ed-d23a6e408e43" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09_Advanced/부분집합.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_Advanced/부분집합.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AfterClass/For A/1949_등산로 조성.py" beforeDir="false" afterPath="$PROJECT_DIR$/AfterClass/For A/1949_등산로 조성.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,36 +18,36 @@
     <session id="2102314950">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="40" />
-          <entry key="txt" value="6" />
+          <entry key="py" value="57" />
+          <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="40" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="Python" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
-          <entry key="py" value="5906" />
-          <entry key="txt" value="3" />
+          <entry key="py" value="9952" />
+          <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="5906" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Python" value="9952" />
         </counts>
       </usages-collector>
     </session>
@@ -58,64 +57,85 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AfterClass/For A/1949_등산로 조성.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="54" column="30" lean-forward="true" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+            <state relative-caret-position="89">
+              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
               <folding>
-                <marker date="1573538375518" expanded="true" signature="63:117" ph="..." />
-                <marker date="1573538375518" expanded="true" signature="248:562" ph="..." />
+                <marker date="1573606260606" expanded="true" signature="63:117" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06_Combination/[종합 정리] 순열, 조합.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/AfterClass/For A/2117_홈 방범 서비스.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AfterClass/For A/2383_점심 식사시간.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+            <state relative-caret-position="-266">
+              <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AfterClass/For A/4008_input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AfterClass/For A/14502(BJ)_연구소.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
               <folding>
-                <marker date="1573550192862" expanded="true" signature="96:1227" ph="..." />
+                <marker date="1573555802038" expanded="true" signature="59:113" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AfterClass/For A/14502(BJ)_연구소.py">
+        <entry file="file://$PROJECT_DIR$/AfterClass/For A/17471(BJ)_게리맨더링.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            <state relative-caret-position="360">
+              <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
               <folding>
-                <marker date="1573555802038" expanded="true" signature="59:113" ph="..." />
-                <marker date="1573555802038" expanded="true" signature="447:1008" ph="..." />
+                <marker date="1573642771059" expanded="true" signature="383:610" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AfterClass/For A/input.txt">
+        <entry file="file://$PROJECT_DIR$/09_Advanced/부분집합.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="209">
+              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AfterClass/For A/1949_input.txt">
+        <entry file="file://$PROJECT_DIR$/AfterClass/For A/17471_input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="47" column="16" lean-forward="true" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+            <state relative-caret-position="133">
+              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AfterClass/For A/4008(retry)_숫자 만들기.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="779">
+              <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -129,6 +149,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fin[0]</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>fin</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -139,17 +167,26 @@
         <option value="$PROJECT_DIR$/Problem Solving/191104/15649(BJ)_N과 M(1).py" />
         <option value="$PROJECT_DIR$/AfterClass/For A/1949_input.txt" />
         <option value="$PROJECT_DIR$/AfterClass/For A/2383_input.txt" />
-        <option value="$PROJECT_DIR$/AfterClass/For A/1949_등산로 조성.py" />
         <option value="$PROJECT_DIR$/09_Advanced/부분집합.py" />
         <option value="$PROJECT_DIR$/AfterClass/For A/2383_점심 식사시간.py" />
         <option value="$PROJECT_DIR$/AfterClass/For A/input.txt" />
         <option value="$PROJECT_DIR$/AfterClass/For A/14502(BJ)_연구소.py" />
+        <option value="$PROJECT_DIR$/AfterClass/For A/1949_등산로 조성.py" />
+        <option value="$PROJECT_DIR$/AfterClass/For A/4008_input.txt" />
+        <option value="$PROJECT_DIR$/06_Combination/[종합 정리] 순열, 조합.py" />
+        <option value="$PROJECT_DIR$/AfterClass/For A/4008(retry)_숫자 만들기.py" />
+        <option value="$PROJECT_DIR$/AfterClass/For A/2117_홈 방범 서비스.py" />
+        <option value="$PROJECT_DIR$/AfterClass/For A/2117_input.txt" />
+        <option value="$PROJECT_DIR$/AfterClass/For A/4008_숫자 만들기.py" />
+        <option value="$PROJECT_DIR$/AfterClass/For A/4008(Nyapy)_숫자 만들기.py" />
+        <option value="$PROJECT_DIR$/AfterClass/For A/17471_input.txt" />
+        <option value="$PROJECT_DIR$/AfterClass/For A/17471(BJ)_게리맨더링.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="839" />
-    <option name="width" value="1086" />
+    <option name="x" value="938" />
+    <option name="width" value="989" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -160,6 +197,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -400,7 +438,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -419,28 +456,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.14502(BJ)_연구소">
-    <configuration name="부분집합" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_Advanced" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_Advanced/부분집합.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.17471(BJ)_게리맨더링">
     <configuration name="14502(BJ)_연구소" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -462,7 +478,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1949_등산로 조성" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="17471(BJ)_게리맨더링" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -474,7 +490,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AfterClass/For A/1949_등산로 조성.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AfterClass/For A/17471(BJ)_게리맨더링.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -483,7 +499,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2383_점심 식사시간" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4008_숫자 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -495,7 +511,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AfterClass/For A/2383_점심 식사시간.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AfterClass/For A/4008_숫자 만들기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -504,7 +520,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="[종합 정리] 순열, 조합" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4008(Nyapy)_숫자 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -512,11 +528,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Combination" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AfterClass/For A" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Combination/[종합 정리] 순열, 조합.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AfterClass/For A/4008(Nyapy)_숫자 만들기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4008(retry)_숫자 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AfterClass/For A" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AfterClass/For A/4008(retry)_숫자 만들기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -526,19 +563,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1949_등산로 조성" />
-      <item itemvalue="Python.2383_점심 식사시간" />
-      <item itemvalue="Python.부분집합" />
+      <item itemvalue="Python.4008_숫자 만들기" />
+      <item itemvalue="Python.4008(retry)_숫자 만들기" />
+      <item itemvalue="Python.4008(Nyapy)_숫자 만들기" />
       <item itemvalue="Python.14502(BJ)_연구소" />
-      <item itemvalue="Python.[종합 정리] 순열, 조합" />
+      <item itemvalue="Python.17471(BJ)_게리맨더링" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.17471(BJ)_게리맨더링" />
         <item itemvalue="Python.14502(BJ)_연구소" />
-        <item itemvalue="Python.[종합 정리] 순열, 조합" />
-        <item itemvalue="Python.2383_점심 식사시간" />
-        <item itemvalue="Python.부분집합" />
-        <item itemvalue="Python.1949_등산로 조성" />
+        <item itemvalue="Python.4008(Nyapy)_숫자 만들기" />
+        <item itemvalue="Python.4008_숫자 만들기" />
+        <item itemvalue="Python.4008(retry)_숫자 만들기" />
       </list>
     </recent_temporary>
   </component>
@@ -556,10 +593,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="839" y="0" width="1086" height="1047" extended-state="0" />
+    <frame x="938" y="0" width="989" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15553436" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21451104" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -594,16 +631,49 @@
           <line>68</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AfterClass/For A/4008(retry)_숫자 만들기.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AfterClass/For A/4008_숫자 만들기.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="MAP" language="Python" />
+        <watch expression="case" language="Python" />
+        <watch expression="ON" language="Python" />
+        <watch expression="ffin" language="Python" />
+        <watch expression="fin" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>fin</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ffin</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ON</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>case</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>MAP</expression-string>
         <language-id>Python</language-id>
@@ -681,16 +751,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AfterClass/For A/1249_(deque)보급로.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AfterClass/For A/1249_보급로.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -713,35 +773,10 @@
         <state relative-caret-position="-125" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AfterClass/For A/1949_input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="47" column="16" lean-forward="true" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AfterClass/For A/2383_input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_Advanced/부분집합.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AfterClass/For A/1949_등산로 조성.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="54" column="30" lean-forward="true" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
-          <folding>
-            <marker date="1573538375518" expanded="true" signature="63:117" ph="..." />
-            <marker date="1573538375518" expanded="true" signature="248:562" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -769,30 +804,122 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AfterClass/For A/2383_점심 식사시간.py">
+    <entry file="file://$PROJECT_DIR$/AfterClass/For A/1949_input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-          <folding>
-            <marker date="1573550192862" expanded="true" signature="96:1227" ph="..." />
-          </folding>
+        <state relative-caret-position="184">
+          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AfterClass/For A/1249_(deque)보급로.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="319" selection-start-line="319" selection-end-line="319" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AfterClass/For A/2117_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="155" column="39" selection-start-line="155" selection-start-column="39" selection-end-line="155" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/06_Combination/[종합 정리] 순열, 조합.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        <state relative-caret-position="152">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AfterClass/For A/2117_홈 방범 서비스.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AfterClass/For A/4008_숫자 만들기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <marker date="1573633390355" expanded="true" signature="928:1036" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AfterClass/For A/4008(Nyapy)_숫자 만들기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AfterClass/For A/1949_등산로 조성.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <marker date="1573606260606" expanded="true" signature="63:117" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AfterClass/For A/4008_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AfterClass/For A/4008(retry)_숫자 만들기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AfterClass/For A/17471_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AfterClass/For A/14502(BJ)_연구소.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        <state relative-caret-position="532">
+          <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
           <folding>
             <marker date="1573555802038" expanded="true" signature="59:113" ph="..." />
-            <marker date="1573555802038" expanded="true" signature="447:1008" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AfterClass/For A/2383_점심 식사시간.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-266">
+          <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_Advanced/부분집합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AfterClass/For A/17471(BJ)_게리맨더링.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+          <folding>
+            <marker date="1573642771059" expanded="true" signature="383:610" ph="..." />
           </folding>
         </state>
       </provider>
