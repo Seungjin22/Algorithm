@@ -47,6 +47,12 @@ def dfs(wall, idx):
         W[i] = 0
 
 
+def Comb(d, rst):
+    if len(rst) == 3:
+        print(rst)
+        return
+    for i in range(d, len(Coo)):
+        Comb(i+1, rst + [Coo[i]])
 
 
 N, M = map(int, input().split())
@@ -58,12 +64,12 @@ total = 0
 cnt = 0
 rst = 0
 maxx = 0
+Coo = []
 
 for i in range(N):
-    total += MAP[i].count(0)
-
-W = [0 for _ in range(total)]
-
+    for j in range(M):
+        if MAP[i][j] == 0:
+            Coo.append([i, j])
 
 
 dfs(0, 0)
