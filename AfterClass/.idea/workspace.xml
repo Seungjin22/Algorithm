@@ -2,9 +2,172 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb71244d-d363-4784-9719-5003ad7ab9d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_String/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_String/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/.idea/Practice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/BaekJoon/2138_bulbswitch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/BaekJoon/2138_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/BaekJoon/3190_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/BaekJoon/3190_뱀.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/SW Expert Academy/2046_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/SW Expert Academy/2046_stamp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/.idea/Problem Solving.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190813/4828_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190813/4828_minmax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190813/4831_bus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190813/4831_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190813/4834_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190813/4834_numbercard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190813/4835_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190813/4835_sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190816/.idea/190816.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190816/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190816/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190816/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190816/4836_coloring.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190816/4836_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190816/4837_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190816/4837_subsetsum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190816/4839_binarysearch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190816/4839_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190816/4843_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190816/4843_specialarray.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190820/4861_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190820/4861_palindrome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190820/4864_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190820/4864_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190820/4865_counting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190820/4865_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190822/4866_bracket.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190822/4866_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190822/4869_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190822/4869_paper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190822/4871_graphpath.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190822/4871_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190822/4873_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190822/4873_repeatedstr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190827/4874_Forth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190827/4874_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190827/4875_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190827/4875_maze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190827/4880_cardgame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190827/4880_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190827/4881_arraysum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190827/4881_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190829/5097_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190829/5097_rotation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190829/5099_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190829/5099_pizza.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190829/5102_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190829/5102_node.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190829/5105_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190829/5105_maze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190902/1219_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190902/1219_path.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190902/1220_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190902/1220_magnetic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190902/1227_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190902/1227_maze2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190902/1258_array.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190902/1258_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190903/2001_flykiller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190903/2001_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190903/4615_Othello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190903/4615_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190903/5356_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190903/5356_speakingincol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190903/6190_Danjo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190903/6190_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190904/1493_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190904/1493_수의새로운연산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190904/1979_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190904/1979_어디에단어가들어갈수있을까.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190904/2005_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190904/2005_파스칼의삼각형.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190904/6109_(함수)추억의2048.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190904/6109_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190904/6109_추억의2048게임.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190905/1961_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190905/1961_숫자배열회전.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190905/1974_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190905/1974_스도쿠검증.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190905/2805_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190905/2805_농작물수확하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190906/1211_Ladder2(선생님).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190906/1211_Ladder2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190906/1211_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190906/1247_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190906/1247_최적경로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190906/2819_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190906/2819_격자판의숫자이어붙이기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190909/1231_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190909/1231_중위순회.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190909/1248_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190909/1248_공통조상.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190910/1232_(재귀) 사칙연산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190910/1232_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190910/1232_사칙연산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190910/5174_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190910/5174_subtree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190910/5176_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190910/5176_이진탐색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190910/5177_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190910/5177_이진 힙.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190910/5178_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190910/5178_노드의 합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190916/5185_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190916/5185_이진수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190916/5186_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190916/5186_이진수2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190916/하승진_0916.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190918/5188_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190918/5188_최소합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190918/5189_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190918/5189_전자카트.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190918/5201_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190918/5201_컨테이너 운반.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190918/5202_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190918/5202_화물 도크.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190918/5203_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190918/5203_베이비진 게임.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190920/5204_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190920/5204_병합 정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190920/5205_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190920/5205_퀵 정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190920/5207_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190920/5207_이진 탐색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190920/5208_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190920/5208_전기버스2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190920/5209_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190920/5209_최소 생산 비용.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190923/5249_(KRUSKAL)최소 신장 트리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190923/5249_(Prim)최소 신장 트리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190923/5249_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190925/(1244)최대상금.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190925/(5248)그룹나누기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190925/(5250)최소비용_bfs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190925/(5250)최소비용_heap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190925/(5250)최소비용_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190925/(5250)최소비용_n^2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190925/1244_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190925/1861_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190925/1861_정사각형 방.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190925/7465_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190925/7465_창용 마을 무리의 개수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190926/1263_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/190926/1263_사람 네트워크2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/191001/knapsack_DP.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/191001/knapsack_부분집합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/191001/거스름돈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/191001/거스름돈_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/191001/동전 거스름 돈 구하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/191104/15649(BJ)_N과 M(1).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem Solving/191104/input.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +208,15 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1930008853">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.6897347">
@@ -53,7 +225,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/For IM/190822/flykiller.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
+                <state relative-caret-position="266">
                   <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
                 </state>
               </provider>
@@ -72,13 +244,18 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/For IM/190822/harvesting_input.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="15">
+                <state relative-caret-position="19">
                   <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="3" />
                 </state>
               </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/For A/17472(BJ)_다리 만들기2.py">
+              <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
         </leaf>
@@ -93,7 +270,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -114,10 +291,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="581" />
-    <option name="width" value="809" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="580" />
+    <option name="width" value="810" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -127,6 +304,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,7 +337,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -320,9 +497,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="464" y="0" width="648" height="838" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09694415" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09656301" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -415,7 +592,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/For IM/190822/flykiller.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="266">
           <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
         </state>
       </provider>
@@ -429,10 +606,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/For IM/190822/harvesting_input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="19">
           <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For A/17472(BJ)_다리 만들기2.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
