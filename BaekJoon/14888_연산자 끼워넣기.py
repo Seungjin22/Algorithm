@@ -1,6 +1,8 @@
 import sys
 sys.stdin = open('14888_input.txt')
-
+"""
+시간초과 해결하기
+"""
 import collections
 import copy
 
