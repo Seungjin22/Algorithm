@@ -3,7 +3,7 @@ sys.stdin = open('1389_input.txt')
 
 
 def Check(i, j):
-    pass
+    if i == j:
 
 
 
