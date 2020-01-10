@@ -4,7 +4,7 @@ sys.stdin = open('1389_input.txt')
 
 def Check(i, j):
     if i == j:
-
+        pass
 
 
 N, M = map(int, input().split())
