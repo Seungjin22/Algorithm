@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a996ef41-d6b0-4efa-93ed-d23a6e408e43" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BaekJoon/1389_케빈 베이컨의 6단계 법칙.py" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoon/1389_케빈 베이컨의 6단계 법칙.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaekJoon/2455_지능형 기차.py" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoon/2455_지능형 기차.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaekJoon/8979_올림픽.py" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoon/8979_올림픽.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,44 +53,40 @@
     <session id="-226265521">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="8" />
+          <entry key="py" value="9" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="8" />
+          <entry key="Python" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2230" />
+          <entry key="py" value="2569" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2230" />
+          <entry key="Python" value="2569" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BaekJoon/2573_빙산2.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BaekJoon/14888_연산자 끼워넣기2.py">
           <provider selected="true" editor-type-id="text-editor" />
@@ -105,8 +104,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BaekJoon/2455_지능형 기차.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" selection-start-line="3" selection-end-line="15" selection-end-column="11" />
+            <state relative-caret-position="38">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -114,11 +113,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BaekJoon/8979_올림픽.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            <state relative-caret-position="190">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="11" />
               <folding>
-                <marker date="1578463301978" expanded="true" signature="69:480" ph="..." />
+                <marker date="1578907675669" expanded="true" signature="46:48" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BaekJoon/2309_일곱 난쟁이.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -126,10 +134,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BaekJoon/1389_케빈 베이컨의 6단계 법칙.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding>
-                <marker date="1578646751493" expanded="true" signature="64:95" ph="..." />
+                <marker date="1578910510037" expanded="true" signature="101:132" ph="..." />
               </folding>
             </state>
           </provider>
@@ -138,7 +146,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AfterClass/For A/17471(BJ)_게리맨더링.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
+            <state relative-caret-position="950">
               <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
             </state>
           </provider>
@@ -226,12 +234,12 @@
         <option value="$PROJECT_DIR$/AfterClass/For A/4013_특이한 자석.py" />
         <option value="$PROJECT_DIR$/BaekJoon/14888_연산자 끼워넣기.py" />
         <option value="$PROJECT_DIR$/BaekJoon/2455_input.txt" />
-        <option value="$PROJECT_DIR$/BaekJoon/2455_지능형 기차.py" />
         <option value="$PROJECT_DIR$/BaekJoon/8979_input.txt" />
-        <option value="$PROJECT_DIR$/BaekJoon/8979_올림픽.py" />
         <option value="$PROJECT_DIR$/BaekJoon/2309_input.txt" />
         <option value="$PROJECT_DIR$/BaekJoon/1389_input.txt" />
         <option value="$PROJECT_DIR$/BaekJoon/2309_일곱 난쟁이.py" />
+        <option value="$PROJECT_DIR$/BaekJoon/2455_지능형 기차.py" />
+        <option value="$PROJECT_DIR$/BaekJoon/8979_올림픽.py" />
         <option value="$PROJECT_DIR$/BaekJoon/1389_케빈 베이컨의 6단계 법칙.py" />
       </list>
     </option>
@@ -249,7 +257,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -326,6 +333,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,7 +352,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2309_일곱 난쟁이">
+  <component name="RunManager" selected="Python.1389_케빈 베이컨의 6단계 법칙">
     <configuration name="1389_케빈 베이컨의 6단계 법칙" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -459,10 +467,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2309_일곱 난쟁이" />
         <item itemvalue="Python.1389_케빈 베이컨의 6단계 법칙" />
         <item itemvalue="Python.8979_올림픽" />
         <item itemvalue="Python.2455_지능형 기차" />
+        <item itemvalue="Python.2309_일곱 난쟁이" />
         <item itemvalue="Python.17472(BJ)_다리 만들기2" />
       </list>
     </recent_temporary>
@@ -484,12 +492,12 @@
     <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22849463" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22849463" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32902297" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3275862" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -831,13 +839,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BaekJoon/2309_일곱 난쟁이.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BaekJoon/2573_빙산2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -851,20 +852,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BaekJoon/2455_지능형 기차.py">
+    <entry file="file://$PROJECT_DIR$/AfterClass/For A/17471(BJ)_게리맨더링.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BaekJoon/8979_올림픽.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-          <folding>
-            <marker date="1578463301978" expanded="true" signature="69:480" ph="..." />
-          </folding>
+        <state relative-caret-position="950">
+          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -889,19 +880,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AfterClass/For A/17471(BJ)_게리맨더링.py">
+    <entry file="file://$PROJECT_DIR$/BaekJoon/2455_지능형 기차.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaekJoon/8979_올림픽.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="11" />
+          <folding>
+            <marker date="1578907675669" expanded="true" signature="46:48" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaekJoon/2309_일곱 난쟁이.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BaekJoon/1389_케빈 베이컨의 6단계 법칙.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding>
-            <marker date="1578646751493" expanded="true" signature="64:95" ph="..." />
+            <marker date="1578910510037" expanded="true" signature="101:132" ph="..." />
           </folding>
         </state>
       </provider>

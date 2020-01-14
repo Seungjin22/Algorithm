@@ -3,7 +3,7 @@ sys.stdin = open('2455_input.txt')
 
 maxx = 0
 ans = 0
-for _ in range(4):
+for _ in range(3):
     a, b = map(int, input().split())
     ans -= a
     ans += b
