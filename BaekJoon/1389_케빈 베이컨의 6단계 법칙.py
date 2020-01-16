@@ -7,6 +7,7 @@ DFS 교열이는 3 친구
 
 def Check(i, j):
     if i == j:
+        print(i)
         pass
 
 
