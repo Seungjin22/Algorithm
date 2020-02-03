@@ -10,7 +10,9 @@ def Panda(i, j):
         if x < 0 or x >= N or y < 0 or y >= N: continue
         if Bamboo[x][y] > Bamboo[i][j]:
             if visited[x][y]:
+                visited[i][j] += visited[x][y]
                 return visited[x][y]
+
             else:
                 rst = Panda(x, y)
             if visited[i][j] < visited[i][j] + rst:
